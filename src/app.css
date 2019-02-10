@@ -1,0 +1,11 @@
+.section-desc {
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+.submit-btn {
+  padding: 15px;
+  background-color: purple;
+  border: none;
+  color: #fff;
+}
